@@ -1,0 +1,4 @@
+.jekyll-*
+Gemfile.lock
+backup_*
+_site/
